@@ -15,6 +15,8 @@ __If the server software almost one month didn't update it will be mark as disco
 * __[StarrySky](https://github.com/StarrySky-PE/StarrySky)__
 * __[GenisysPro](https://github.com/GenisysPro/GenisysPro)__
 * __[ClearSkyTeam-PocketMine-MP](https://github.com/ClearSkyTeam/PocketMine-MP)__
+* __[PocketMine-M3](https://github.com/FrontierDevs/PocketMine-MP)__
+
 ### Discontinued
 * __[Arufa](https://github.com/Jonathanftw/Arufa)__
 * __[Genisys](https://github.com/iTXTech/Genisys)__
