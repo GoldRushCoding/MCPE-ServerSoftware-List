@@ -26,6 +26,8 @@ __If the server software almost one month didn't update it will be mark as disco
 ## Server Software written in Java
 ### Still Active
 * __[Nukkit](https://github.com/Nukkit/Nukkit)__
+* __[Jupiter](https://github.com/JupiterDevelopmentTeam/JupiterDevelopmentTeam)__
+
 ### Discontinued
 * __[Voxelwind](https://github.com/voxelwind/voxelwind)__
 
