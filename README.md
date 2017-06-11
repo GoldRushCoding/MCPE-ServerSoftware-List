@@ -6,7 +6,7 @@ __If the server software almost one month didn't update it will be mark as disco
 ### Still Active
 * __[PocketMine-MP](https://github.com/pmmp/PocketMine-MP)__
 * __[Cookie-MP](https://github.com/CookieSoftware/Cookie-MP)__
-* __[TesseractMP](https://github.com/AppleDevelops/TesseractPM)__
+* __[TesseractPM](https://github.com/AppleDevelops/TesseractPM)__
 * __[Arufa-2.0](https://github.com/Pizzahaet/Arufa-2.0)__
 * __[Rocky](https://github.com/rockySoftware/Rocky)__
 * __[Tesseract](https://github.com/TesseractTeam/Tesseract)__
